@@ -1,0 +1,68 @@
+Algoritmo Tomar_Banho
+
+Pegar a toalha
+Entrar no banheiro
+Se despir
+Entrar na área de banho
+Ligar o chuveiro
+Pegar a bucha
+Pegar o sabonete
+Se ensaboar
+Se enxaguar
+Pegar o shampoo
+Molhar o cabelo
+Aplicar o shampoo
+Massagear o cabelo até fazer espuma
+Enxaguar o cabelo
+Desligar o chuveiro
+Se secar
+Colocar a roupa
+Sair do banheiro
+
+FimAlgoritmo
+
+Algoritmo Cálculo
+
+Colocar um número no A
+Colocar um número no B
+Somar o numero A com o B
+Colocar um número no C
+Multiplicar o resultado da soma com o número C
+Colocar o resultado no D
+
+(A+B)×C=D
+
+FimAlgoritmo
+
+Algoritmo Roda
+
+Pegar o pneu para trocar
+Pegar o macaco
+Usar o macaco para levantar o carro
+Pegar a chave de roda
+Solte os parafusos do pneu usado
+Tire o pneu usado
+Coloque o pneu novo
+Aperte os parafusos no pneu novo
+Guarde o pneu usado
+Guarde o macaco
+Guarde a chave de roda
+
+FimAlgoritmo
+
+Algoritmo Lâmpada
+
+Desligue a energia da lâmpada queimada
+Pegue uma escada
+Posicione a escada debaixo da lâmpada
+Suba na escada
+Desenrosque a lâmpada girando-a no sentido anti-horário
+Desça da escada
+Guarde a lâmpada queimada
+Pegue a lâmpada nova
+Suba a escada
+Enrosque a lâmpada girando-a sentido horário
+Desça da escada
+Guarde a escada
+
+FimAlgoritmo
